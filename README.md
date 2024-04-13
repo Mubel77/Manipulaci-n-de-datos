@@ -17,4 +17,4 @@ listo un CRUD completo: creación de recursos, lectura de los mismos, actualizac
 borrado.
 Es importante tener presente que también podemos referirnos a CRUD como ABM, por las
 siglas en español: Altas, Bajas y Modificaciones de recursos en una base de datos. Este será
-el foco del trabajo, junto a las posibles relaciones que tengan las tablas en la base de datos.
+el foco del trabajo, junto a las posibles relaciones que tengan las tablas en la base de datos.(39)
